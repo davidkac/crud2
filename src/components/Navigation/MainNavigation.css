@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 15px;
+    
+}
+
+.list li {
+    display: flex;
+    justify-content: center; /* center items horizontally */
+    align-items: center; /* center items vertically */
+    text-decoration: none;
+    margin-right: 2rem;
+}
